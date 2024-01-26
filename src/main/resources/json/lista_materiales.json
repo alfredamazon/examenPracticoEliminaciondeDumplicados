@@ -1,0 +1,4773 @@
+[
+{
+  "materiales": [
+    {
+      "material": "178121",
+      "iddepartamento": "14",
+      "idsubdepartamento": "16",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "852642",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "15"
+    },
+    {
+      "material": "852851",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "852851",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "852853",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "15"
+    },
+    {
+      "material": "852853",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "15"
+    },
+    {
+      "material": "852853",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "15"
+    },
+    {
+      "material": "852854",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "15"
+    },
+    {
+      "material": "852854",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "15"
+    },
+    {
+      "material": "852857",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "13"
+    },
+    {
+      "material": "852857",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "13"
+    },
+    {
+      "material": "852860",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "13"
+    },
+    {
+      "material": "852860",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "13"
+    },
+    {
+      "material": "852861",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852861",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852861",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852862",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852862",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852862",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852863",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852863",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852864",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852864",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852865",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852865",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852866",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852866",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852866",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852867",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852867",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852867",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852869",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852869",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852869",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852870",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852872",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852872",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852874",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852874",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852875",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852875",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852875",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852876",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852876",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852877",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852878",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852878",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852879",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852879",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852880",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852880",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852881",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852881",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852882",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852882",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852883",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852883",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852884",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852884",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852885",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852885",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852886",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852886",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852887",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852888",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852889",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852890",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852890",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852901",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852901",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "852903",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852921",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "16"
+    },
+    {
+      "material": "852923",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852923",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852923",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852926",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852926",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852934",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852934",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852934",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852944",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852961",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "15"
+    },
+    {
+      "material": "852980",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852980",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852987",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852987",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852987",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "852998",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852998",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "852998",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853006",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853006",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853014",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853014",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853015",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853015",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853015",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853026",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853026",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853134",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "853134",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "12"
+    },
+    {
+      "material": "853135",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853135",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853136",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853136",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853143",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853143",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853144",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853144",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853171",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853171",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853172",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853172",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853181",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853181",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853192",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "853195",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "17"
+    },
+    {
+      "material": "853195",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "17"
+    },
+    {
+      "material": "853203",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "853203",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "853263",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853263",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853377",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853377",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853381",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853381",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853382",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853382",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "853391",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853391",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "853397",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "13",
+      "idsubclase": "11"
+    },
+    {
+      "material": "1008373",
+      "iddepartamento": "14",
+      "idsubdepartamento": "16",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "1008374",
+      "iddepartamento": "14",
+      "idsubdepartamento": "16",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "1008396",
+      "iddepartamento": "14",
+      "idsubdepartamento": "16",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "28009475",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28009551",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28009943",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010130",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010150",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010170",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010194",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010195",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010211",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010212",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010218",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010218",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010282",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "28010286",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "28010286",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "28010314",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010314",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010315",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010315",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010373",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010380",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010381",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010381",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010437",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010497",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010501",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010641",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010641",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010641",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010827",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010827",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010840",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010840",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010852",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010852",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010853",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010853",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010862",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010862",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010873",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010873",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010890",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010890",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010894",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010901",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010901",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010936",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010936",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010945",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010947",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010947",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010951",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010951",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010955",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010959",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010959",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010959",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28010982",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28010994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011007",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011007",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011008",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011009",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011009",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011011",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011012",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011012",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "11",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011013",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011014",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011032",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011032",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011083",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011083",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011092",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011092",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011093",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "28011094",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011117",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011135",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011135",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011135",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "28011153",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "29003140",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "32",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29019181",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "29037443",
+      "iddepartamento": "14",
+      "idsubdepartamento": "14",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037444",
+      "iddepartamento": "14",
+      "idsubdepartamento": "14",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037535",
+      "iddepartamento": "14",
+      "idsubdepartamento": "14",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037664",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "29037664",
+      "iddepartamento": "14",
+      "idsubdepartamento": "24",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "29037743",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "32",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037743",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "32",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037861",
+      "iddepartamento": "14",
+      "idsubdepartamento": "14",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037861",
+      "iddepartamento": "14",
+      "idsubdepartamento": "14",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037861",
+      "iddepartamento": "14",
+      "idsubdepartamento": "14",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "29037871",
+      "iddepartamento": "14",
+      "idsubdepartamento": "14",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "30002954",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "16"
+    },
+    {
+      "material": "31036803",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "33",
+      "idsubclase": "0"
+    },
+    {
+      "material": "31036803",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "33",
+      "idsubclase": "0"
+    },
+    {
+      "material": "31047429",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "49"
+    },
+    {
+      "material": "31048931",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31048931",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31048932",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31048932",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31050968",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31051301",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "41"
+    },
+    {
+      "material": "31051376",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "41"
+    },
+    {
+      "material": "31051378",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "41"
+    },
+    {
+      "material": "31051378",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "41"
+    },
+    {
+      "material": "31051434",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31051435",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31051725",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "18"
+    },
+    {
+      "material": "31051725",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "18"
+    },
+    {
+      "material": "31051727",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "18"
+    },
+    {
+      "material": "31051727",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "18"
+    },
+    {
+      "material": "31051929",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "37"
+    },
+    {
+      "material": "31051941",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31051982",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31052069",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "24"
+    },
+    {
+      "material": "31052070",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "24"
+    },
+    {
+      "material": "31052237",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31052237",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31052238",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31053497",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31053497",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31053498",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31053498",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31054964",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31054964",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31054965",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31054965",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31055009",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055009",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055010",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055010",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055100",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055101",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055188",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31055188",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31055310",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31055310",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31055314",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055314",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055315",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055315",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055343",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055343",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055373",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31055496",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055496",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055497",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055497",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055509",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055509",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055510",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055510",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31055523",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31055524",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31055524",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31055579",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31055579",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31055579",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31055580",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31055580",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31055599",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31055603",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31055603",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31055604",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31055604",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31055644",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31055644",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31055645",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31055645",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31055692",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31055692",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31055702",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31055702",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31055731",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31055731",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31055757",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055757",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055758",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055758",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31055766",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31055767",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31055768",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "70"
+    },
+    {
+      "material": "31055884",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055884",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055885",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31055885",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31056225",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056226",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056391",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31056391",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31056520",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31056520",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31056530",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31056539",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31056539",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31056540",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31056540",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31056541",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31056541",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31056551",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056551",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056552",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056553",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056553",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056616",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056616",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056617",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056618",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31056977",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "24"
+    },
+    {
+      "material": "31056977",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "24"
+    },
+    {
+      "material": "31057008",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "24"
+    },
+    {
+      "material": "31057011",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057011",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057022",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057022",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057150",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057150",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057150",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057153",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057153",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057153",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057154",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057154",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057154",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057155",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057155",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057161",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057161",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057161",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057161",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057162",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057162",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057162",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057163",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057163",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057164",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057164",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057172",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057172",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057202",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057202",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057217",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057223",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057223",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057236",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057236",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057238",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057239",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057239",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057240",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31057241",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057241",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057244",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057245",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057245",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057248",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057248",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057248",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057249",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057256",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057256",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057257",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057257",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057258",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057258",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057262",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "31057263",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057263",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057267",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057267",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057270",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057270",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31057271",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057271",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057272",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057272",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057273",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057285",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057285",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057286",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057286",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057288",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31057288",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31057294",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31057323",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31057331",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31057331",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31057427",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057427",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057435",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057435",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057569",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057569",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057594",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057594",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057603",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057603",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31057616",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057616",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057628",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057630",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057707",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31057715",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31057715",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31057753",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31057753",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31057765",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057800",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057807",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057807",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057811",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057811",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31057861",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057871",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057872",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057872",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "13"
+    },
+    {
+      "material": "31057917",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "30"
+    },
+    {
+      "material": "31057917",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "30"
+    },
+    {
+      "material": "31057918",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "30"
+    },
+    {
+      "material": "31057918",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "30"
+    },
+    {
+      "material": "31057924",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "30"
+    },
+    {
+      "material": "31057953",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "63"
+    },
+    {
+      "material": "31057958",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057958",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057959",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057959",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057959",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31057994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31057994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058001",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058001",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058003",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058003",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058018",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31058018",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31058019",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31058019",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31058022",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31058022",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31058023",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31058023",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31058023",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "99"
+    },
+    {
+      "material": "31058032",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "76"
+    },
+    {
+      "material": "31058032",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "76"
+    },
+    {
+      "material": "31058033",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "76"
+    },
+    {
+      "material": "31058041",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31058041",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31058051",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058051",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058056",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058057",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058057",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058059",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058059",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058063",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058063",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "14"
+    },
+    {
+      "material": "31058576",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31058576",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31058585",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31058722",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31058745",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31058753",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "76"
+    },
+    {
+      "material": "31058753",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "76"
+    },
+    {
+      "material": "31058764",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058764",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058765",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058765",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058766",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058766",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058766",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058767",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058767",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058767",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "46"
+    },
+    {
+      "material": "31058831",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31058831",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31058865",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058865",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058883",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058883",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31058896",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31058896",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "12",
+      "idsubclase": "10"
+    },
+    {
+      "material": "31058903",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31058912",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31058912",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "11"
+    },
+    {
+      "material": "31058923",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31058932",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31058932",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "65"
+    },
+    {
+      "material": "31058990",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31058990",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31058994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31058994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31058997",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31058997",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31059004",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31059004",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "25",
+      "idsubclase": "42"
+    },
+    {
+      "material": "31059040",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31059040",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31059052",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "19"
+    },
+    {
+      "material": "31059065",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31059065",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "14",
+      "idsubclase": "45"
+    },
+    {
+      "material": "31059068",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31059069",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31059073",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31059083",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "17"
+    },
+    {
+      "material": "31059119",
+      "iddepartamento": "14",
+      "idsubdepartamento": "10",
+      "idclase": "13",
+      "idsubclase": "47"
+    },
+    {
+      "material": "32003706",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "26",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32003706",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "26",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32003706",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "26",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32004961",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "17",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32004961",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "17",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32009701",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "26",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32009701",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "26",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32009802",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "14"
+    },
+    {
+      "material": "32009975",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32009975",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "11",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010385",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "12",
+      "idsubclase": "18"
+    },
+    {
+      "material": "32010421",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "14",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010459",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010459",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010465",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010465",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010466",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010466",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010466",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010467",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010467",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010468",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010468",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010469",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010469",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010470",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010470",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010471",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010471",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010472",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010472",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010473",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010473",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010474",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010474",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010475",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010475",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010476",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010476",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010477",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010477",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010478",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "32010478",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "32010481",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010481",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010481",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010482",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010482",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010484",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010484",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010484",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010486",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010486",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010486",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010488",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010488",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010490",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010492",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "12"
+    },
+    {
+      "material": "32010497",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010497",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010499",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010499",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010500",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010500",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010512",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010512",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010512",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010515",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010515",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010516",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010516",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010524",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010524",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010532",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010532",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010533",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010533",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010572",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010572",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010581",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010581",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010623",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010623",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010625",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010631",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010631",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010633",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010714",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "17",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010714",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "17",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010777",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010777",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010786",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010786",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010786",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010787",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010787",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010812",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010812",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010812",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010814",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010814",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010854",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010854",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010854",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010862",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010862",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010881",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010881",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010901",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010901",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010922",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010952",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010952",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010961",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010961",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010971",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010971",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010972",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010972",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010981",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010981",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "10"
+    },
+    {
+      "material": "32010992",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010992",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010992",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32010994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010994",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010995",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32010995",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32011002",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32011003",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32011005",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32011005",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32011006",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32011006",
+      "iddepartamento": "14",
+      "idsubdepartamento": "25",
+      "idclase": "10",
+      "idsubclase": "11"
+    },
+    {
+      "material": "32011012",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    },
+    {
+      "material": "32011012",
+      "iddepartamento": "14",
+      "idsubdepartamento": "19",
+      "idclase": "10",
+      "idsubclase": "0"
+    }
+  ]
+}
+]

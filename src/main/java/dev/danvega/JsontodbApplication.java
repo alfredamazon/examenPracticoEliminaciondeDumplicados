@@ -2,7 +2,8 @@ package dev.danvega;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import dev.danvega.domain.User;
+import dev.danvega.domain.Material;
+import dev.danvega.domain.MaterialesContainer;
 import dev.danvega.service.UserService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -21,19 +22,23 @@ public class JsontodbApplication {
 	}
 
 	@Bean
-	CommandLineRunner runner(UserService userService){
-	    return args -> {
-			// read JSON and load json
+	CommandLineRunner runner(UserService userService) {
+		return args -> {
 			ObjectMapper mapper = new ObjectMapper();
-			TypeReference<List<User>> typeReference = new TypeReference<List<User>>(){};
-			InputStream inputStream = TypeReference.class.getResourceAsStream("/json/users.json");
+			TypeReference<List<MaterialesContainer>> typeReference = new TypeReference<List<MaterialesContainer>>() {
+			};
+			InputStream inputStream = JsontodbApplication.class.getResourceAsStream("/json/lista_materiales.json");
 			try {
-				List<User> users = mapper.readValue(inputStream,typeReference);
-				userService.save(users);
-				System.out.println("Users Saved!");
-			} catch (IOException e){
-				System.out.println("Unable to save users: " + e.getMessage());
+				List<MaterialesContainer> materialesContainers = mapper.readValue(inputStream, typeReference);
+
+				// Obtén la lista de materiales del primer contenedor
+				List<Material> materiales = materialesContainers.get(0).getMateriales();
+
+				userService.save(materiales);
+				System.out.println("Materiales Saved!");
+			} catch (IOException e) {
+				System.out.println("Unable to save materiales: " + e.getMessage());
 			}
-	    };
+		};
 	}
 }
